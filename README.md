@@ -1,23 +1,21 @@
-Aplicación de prueba Cupon para Symfony 2.8
-===========================================
+Aplicación de prueba para diseños 3d y 2 d 
+-------------------------------------------------------------------------------
 
-**Cupon** es una aplicación de prueba desarrollada para aprender a programar con
-Symfony 2.8. Se trata de un clon simplificado de Groupon, de ahí el nombre.
-Esta aplicación es la base del libro [Desarrollo web ágil con Symfony](http://www.symfony.es/libro/)
-publicado por Javier Eguiluz.
+**illustrator** es una aplicación de prueba desarrollada para aprender a diseñar con
+illustratorpremier Se trata de un aplicacion muy compleja para editar 
+Esta aplicación es la base del libro [Desarrollo por adobe](https://www.adobe.com/la/products/illustrator.html?sdid=KQPQL&mv=search&s_kwcid=AL!3085!3!158996394221!e!!g!!illustrator&ef_id=WN-UwAAAAVQllyao:20170404061243:s)
+.
 
-Si descubres algún error, por favor utiliza [la página de issues de
-Github](https://github.com/javiereguiluz/Cupon/issues) para avisarnos.
 
-Instalando la aplicación
+
+adobe illustrator
 ------------------------
 
-En el libro [Desarrollo web ágil con Symfony](http://www.symfony.es/libro/) se
-expica detalladamente cómo instalar bien Symfony y la aplicación Cupon. A
-continuación sólo se indican los principales pasos necesarios.
+esta aplicacion  [Desarrollo por adob](https://www.adobe.com/la/products/illustrator.html?sdid=KQPQL&mv=search&s_kwcid=AL!3085!3!158996394221!e!!g!!illustrator&ef_id=WN-UwAAAAVQllyao:20170404061243:s)) se
+expica detalladamente cómo instalar bien adobe illustrator gratis o con serial.
 
-En **primer lugar** debes tener Composer instalador globalmente. Si utilizas
-Linux o Mac OS X, ejecuta los siguientes comandos:
+En **primer lugar** debes el setup de la aplicacion con el crack o serial. Si utilizas
+
 
 ```bash
 $ curl -sS https://getcomposer.org/installer | php
@@ -25,80 +23,79 @@ $ sudo mv composer.phar /usr/local/bin/composer
 ```
 
 Si utilizas Windows, descárgate el [instalador ejecutable de
-Composer](https://getcomposer.org/download) y sigue los pasos indicados por el
-instalador.
+desde la pagina de adobe (https://www.adobe.com/la/products/illustrator.html?sdid=KQPQL&mv=search&s_kwcid=AL!3085!3!158996394221!e!!g!!illustrator&ef_id=WN-UwAAAAVQllyao:20170404061243:s) y sigue los pasos indicados por el
+instalador o setup .
 
-Una vez instalado **Composer**, ejecuta los siguientes comandos para descargar e
-instalar la aplicación **Cupon**:
+Una vez instalado **adobe illustratorr**, ejecuta y colocale el serial para un mayor rendimiento al 
+instalar la aplicación 
 
-```bash
-# clona el código de la aplicación
-$ cd proyectos/
-$ git clone git://github.com/javiereguiluz/Cupon.git
-
-# instala las dependencias del proyecto (incluyendo Symfony)
-$ cd Cupon/
-$ composer install
-```
 
 Probando la aplicación
 ----------------------
 
-La forma más sencilla de probar la aplicación, ejecuta el siguiente comando, que
-arranca el servidor web interno de PHP y hace que tu aplicación se pueda
-ejecutar sin necesidad de usar Apache o Nginx:
+ADOBE ILLUSTRATOR CC 2015
 
-```bash
-$ php app/console server:run
-Server running on http://localhost:8000
+Edita una vez y actualiza en todas partes
+Ahora pueden vincularse los activos de las bibliotecas de Creative Cloud Libraries para que cuando se realice un cambio en un activo, tú y los miembros de tu equipo podáis actualizarlo en todos los proyectos de Illustrator, Photoshop o InDesign en los que se esté utilizando.
+
+Encuentra rápidamente la imagen o el gráfico perfecto
+La nueva tienda (marketplace) de Adobe Stock te permite encontrar, implantar licencias y gestionar vectores e imágenes sin derechos de autor desde Illustrator CC. Selecciona entre 40 millones de activos, guarda tu selección en tus bibliotecas de Creative Cloud Libraries y, después, arrástrala a tu proyecto para utilizarla.
+
+Zoom, panoramización y desplazamiento diez veces más rápido
+Gracias a las mejoras de Mercury Performance System, puedes expandir, aplicar zoom y desplazarte más de diez veces más rápido y con mayor fluidez sin que se produzcan cambios escalonados y lentos.
+
+Aumento del zoom diez veces mayor
+Aplica un zoom en tu ilustración de hasta un 64 000 % (desde un 6400 %) para que puedas crear y editar con más precisión.
+
+No pierdas nunca tu trabajo
+Recupera tu trabajo si Illustrator se bloquea y te has olvidado de guardarlo. Solo tienes que volver a iniciar el programa y tu archivo estará restaurado. Illustrator te permite diagnosticar rápidamente qué provocó el bloqueo, por ejemplo, una fuente dañada, un controlador desactualizado o un plug-in no disponible.
+
+Integrado con el nuevo Adobe Comp CC
+Crea diseños para impresión, web y dispositivos móviles en tu iPad. Extrae activos creativos en Comp de tus bibliotecas compartidas de Creative Cloud Libraries o de las de tu equipo y envía al momento tus diseños a Illustrator. Todo el texto, las imágenes y los gráficos son dinámicos y totalmente editables.
+
+Utiliza el arte de Sketch en diseños de gran formato
+Amplía dibujos de Photoshop Sketch hasta cuatro veces su tamaño original sin perder calidad.
+
+Y mucho más
+También incluye el nuevo modo de fusión y eliminación de forma libre para la herramienta Creador de formas, actualizaciones en la herramienta Curvatura para dibujar con más flexibilidad, varias mejoras en el espacio de trabajo táctil y mucho más.
+
+REQUERIMIENTOS
+
+Procesador Intel Pentium 4 o AMD Athlon de 64 bits.
+Microsoft Windows 7 con Service Pack 1, Windows 8 o Windows 8.1.
+1 GB de RAM (se recomiendan 3 GB) para 32 bits; 2 GB de RAM (se recomiendan 8 GB) para 64 bits.
+2 GB de espacio disponible en el disco duro para la instalación; se requiere espacio libre adicional durante la instalación (no se puede instalar en dispositivos de almacenamiento flash extraíbles).
+Resolución de pantalla de 1024 × 768 (se recomienda 1280 × 800).
+Para ver Illustrator en el modo de alta resolución de PPP, el monitor debe tener una resolución de 1920 × 1080 o superior. Para obtener más información, consulte Soporte de Windows mejorado: Dispositivos con alta resolución de PPP.
+Opcional: para utilizar el rendimiento de GPU (función experimental): adaptador de vídeo NVIDIA indicado a continuación (se recomienda gama alta/media); 1 GB de VRAM (se recomiendan 2 GB) y controladores NVIDIA para obtener un rendimiento óptimo (se recomienda la versión de controlador 335.23 o posterior para la serie de GeForce y la versión 332.76 o posterior para la serie Quadro).
+Es necesario disponer de una conexión a Internet y registrarse para la activación del software y la validación de los abonos obligatorias, y para el acceso a los servicios online.
+
+----------.----......-..........--------...-....--------.......
+
+DESCARGA
+(contraseña: urbinatutoriales.com)
+
+32 bits (4 partes)
+No olvides esperar 5 segundos y luego darle clic en saltar publicidad. Avísame si los links se caen.
+
+Parte 1: http://ouo.io/eSeEZ
+Parte 2: http://ouo.io/iRPkN3r
+Parte 3: http://ouo.io/3eW41
+Parte 4 : http://ouo.io/MBjMNV
+
+64 bits (4 partes)
+No olvides esperar 5 segundos y luego darle clic en saltar publicidad. Avísame si los links se caen.
+
+Parte 1: http://ouo.io/NFQkBo
+Parte 2: http://ouo.io/2jbBAt
+Parte 3: http://ouo.io/BrnJ4D
+Parte 4: http://ouo.io/KMELw
+
+CRACK PARA TENERLO FULL
+http://ouo.io/qRUWag
 ```
 
-Ahora ya puedes abrir tu navegador y acceder a `http://localhost:8000` para
-probar la aplicación.
 
-El comando anterior requiere PHP 5.4. Si utilizas una versión anterior de PHP,
-tendrás que configurar un *virtual host* en tu servidor web, tal y como se
-explica con detalle en el libro.
-
-### Solución a los problemas comunes
-
-Al empezar a programar con Symfony, es común no saber la causa exacta de algunos
-de los errores que se producen. En estos casos es útil borrar la caché de la
-aplicación ejecutando los siguientes comandos:
-
-  * Entorno de desarrollo: `php app/console cache:clear`
-  * Entorno de producción: `php app/console cache:clear --env=prod`
-
-Si aún así siguen persistiendo los errores, al principio también suele ser útil
-borrar completamente los directorios dentro de `app/cache/` (por ejemplo con el
-comando `rm -fr app/cache/*`).
-
-**1. Si solamente ves una página en blanco**, es posible que se trate de un
-problema de permisos. En el libro se explica detalladamente cómo solucionarlo,
-pero una solución rápida puede ser ejecutar el siguiente comando:
-
-```bash
-$ cd proyectos/Cupon/
-$ chmod -R 777 app/cache app/logs
-```
-
-Si no te funciona esta solución, también puedes consultar el artículo [Cómo
-solucionar el problema de los permisos de
-Symfony](http://symfony.es/documentacion/como-solucionar-el-problema-de-los-
-permisos-de-symfony2/).
-
-**2. Si ves un error relacionado con la base de datos**, es posible que tu
-instalación de PHP no tenga instalada o activada la extensión para SQLite.
-
-Para facilitar la instalación de la aplicación, SQLite se usa por defecto. Si
-prefieres usar una base de datos como MySQL, sigue estos pasos:
-
-  1. Edita el archivo `app/config/parameters.yml` comentando todo lo relacionado
-     con SQLite y descomentando todo lo relacionado con MySQL.
-  2. Edita el archivo `app/config/config.yml` y en la sección `dbal`, comenta
-     todo lo relacionado con SQLite y descomenta todo lo relacionado con MySQL.
-  3. Ejecuta los siguientes comandos para crear la base de datos y rellenarla
-     con datos de prueba:
 
 ```bash
 $ php app/console doctrine:database:create
