@@ -17,10 +17,7 @@ expica detalladamente cómo instalar bien adobe illustrator gratis o con serial.
 En **primer lugar** debes el setup de la aplicacion con el crack o serial. Si utilizas
 
 
-```bash
-$ curl -sS https://getcomposer.org/installer | php
-$ sudo mv composer.phar /usr/local/bin/composer
-```
+
 
 Si utilizas Windows, descárgate el [instalador ejecutable de
 desde la pagina de adobe (https://www.adobe.com/la/products/illustrator.html?sdid=KQPQL&mv=search&s_kwcid=AL!3085!3!158996394221!e!!g!!illustrator&ef_id=WN-UwAAAAVQllyao:20170404061243:s) y sigue los pasos indicados por el
